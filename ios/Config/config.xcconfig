@@ -1,0 +1,9 @@
+BUNDLE_DISPLAY_NAME = MFS DEV Mx10
+BUNDLE_IDENTIFIER = com.mammoet.appdev.mfsmx10
+
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+RUNTIME_URL = https:\/\/mammoet-field-service-dev.cfapps.eu10.hana.ondemand.com/
+
+PRODUCT_NAME = MFSdevMx10
+HERMES_ENABLED = YES
