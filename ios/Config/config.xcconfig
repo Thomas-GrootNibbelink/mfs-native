@@ -1,9 +1,8 @@
-BUNDLE_DISPLAY_NAME = MFS DEV Mx10
-BUNDLE_IDENTIFIER = com.mammoet.appdev.mfsmx10
+BUNDLE_DISPLAY_NAME = NativeTemplate
+BUNDLE_IDENTIFIER = com.mendix.native.template
 
 PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 
-RUNTIME_URL = https:\/\/mammoet-field-service-dev.cfapps.eu10.hana.ondemand.com/
+RUNTIME_URL = http:\/\/localhost:8080
 
-PRODUCT_NAME = MFSdevMx10
-HERMES_ENABLED = YES
+PRODUCT_NAME = nativeTemplate

@@ -46,34 +46,6 @@
 		EB59215B23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		EB59215C23BFA1F5001D6155 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB59215A23BFA1F5001D6155 /* main.m */; };
 		ED297163215061F000B7C4FE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ED297162215061F000B7C4FE /* JavaScriptCore.framework */; };
-		9C5754FC178D47DA9FDA9FFE /* 72-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E13EB1163E0B41488C6E1811 /* 72-Bold.ttf */; };
-		30A358F9FB154D11B29D8DF7 /* 72-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E13EB1163E0B41488C6E1811 /* 72-Bold.ttf */; };
-		189495CB03534398A4685CDE /* 72-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5ADB1BBCADB34E4B9AF6A467 /* 72-BoldItalic.ttf */; };
-		F80BD6DC58C24675BAA55362 /* 72-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5ADB1BBCADB34E4B9AF6A467 /* 72-BoldItalic.ttf */; };
-		D2F17A6469154001AEFE7425 /* 72-Condensed.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3CF67D44DDF4C6084F4FFCC /* 72-Condensed.ttf */; };
-		B9E93CB102884114BC02975B /* 72-Condensed.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3CF67D44DDF4C6084F4FFCC /* 72-Condensed.ttf */; };
-		1B6ED6A5CB2248008DFBAAD9 /* 72-CondensedBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C8AE8BCC377C4C9089501F56 /* 72-CondensedBold.ttf */; };
-		A13218EE246E45BDAEEDB2D5 /* 72-CondensedBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C8AE8BCC377C4C9089501F56 /* 72-CondensedBold.ttf */; };
-		28EA668726C84A5F89BB7476 /* 72-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D18D91CE3E2F4B53B7855A10 /* 72-Italic.ttf */; };
-		CA5CB2953D1B4D4B91F32D3F /* 72-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D18D91CE3E2F4B53B7855A10 /* 72-Italic.ttf */; };
-		0649B4A9131C4DBC8B25A6FC /* 72-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE90D2204C664B5BA1386D5A /* 72-Light.ttf */; };
-		AD45CF6504704569BCC579C6 /* 72-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE90D2204C664B5BA1386D5A /* 72-Light.ttf */; };
-		0C374EECC9E5466DA53C9E5C /* 72-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E3CF806940F94D94A46ED36B /* 72-Regular.ttf */; };
-		B68FB2763BBD4C69B1FDDF7E /* 72-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E3CF806940F94D94A46ED36B /* 72-Regular.ttf */; };
-		84C49979E89A45B7A1B2C4DB /* 72-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 705D31358CF14849872AB209 /* 72-Semibold.ttf */; };
-		2F83C5CFB68546E7A7B50CBA /* 72-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 705D31358CF14849872AB209 /* 72-Semibold.ttf */; };
-		C31EB2A811694D369FEF12AA /* 72-SemiboldDuplex.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A2A9C1B1778452A9F513B55 /* 72-SemiboldDuplex.ttf */; };
-		51AED0E54EB04EA4A43011C6 /* 72-SemiboldDuplex.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A2A9C1B1778452A9F513B55 /* 72-SemiboldDuplex.ttf */; };
-		9BDC3135F0974C1183AE8EC1 /* 72Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43E96A4D1770453087CD14B7 /* 72Black.ttf */; };
-		63C11E5000FB488A90149037 /* 72Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43E96A4D1770453087CD14B7 /* 72Black.ttf */; };
-		9F893034CFB34C80B2406766 /* 72Mono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 038DAA5AF7E644A9B65E75B0 /* 72Mono-Bold.ttf */; };
-		7B0D14B58EC14F2A8748EAE7 /* 72Mono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 038DAA5AF7E644A9B65E75B0 /* 72Mono-Bold.ttf */; };
-		C479B370BBCF431295C61220 /* 72Mono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4117A63A55D7443EB06E25A1 /* 72Mono-Regular.ttf */; };
-		487E07F2966C4B6A8DD7A07F /* 72Mono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4117A63A55D7443EB06E25A1 /* 72Mono-Regular.ttf */; };
-		8F3DA68AEFB544B7A7530969 /* SAPicons-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF121216F87C431AA073CC4D /* SAPicons-Regular.ttf */; };
-		7D5E38DACA9B40D2B719A3BE /* SAPicons-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF121216F87C431AA073CC4D /* SAPicons-Regular.ttf */; };
-		7F13A3FA32624FE58B600FF2 /* native_dependencies.json in Resources */ = {isa = PBXBuildFile; fileRef = A42981ABF59E49C6A8272E94 /* native_dependencies.json */; };
-		4AD6C89D197D4350BF2E4418 /* native_dependencies.json in Resources */ = {isa = PBXBuildFile; fileRef = A42981ABF59E49C6A8272E94 /* native_dependencies.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -130,20 +102,6 @@
 		EBC80A6022DF4205007E5F3D /* config.debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.debug.xcconfig; sourceTree = "<group>"; };
 		EBC80A6122DF42DF007E5F3D /* config.release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = config.release.xcconfig; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		E13EB1163E0B41488C6E1811 /* 72-Bold.ttf */ = {isa = PBXFileReference; name = "72-Bold.ttf"; path = "72-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		5ADB1BBCADB34E4B9AF6A467 /* 72-BoldItalic.ttf */ = {isa = PBXFileReference; name = "72-BoldItalic.ttf"; path = "72-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A3CF67D44DDF4C6084F4FFCC /* 72-Condensed.ttf */ = {isa = PBXFileReference; name = "72-Condensed.ttf"; path = "72-Condensed.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		C8AE8BCC377C4C9089501F56 /* 72-CondensedBold.ttf */ = {isa = PBXFileReference; name = "72-CondensedBold.ttf"; path = "72-CondensedBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D18D91CE3E2F4B53B7855A10 /* 72-Italic.ttf */ = {isa = PBXFileReference; name = "72-Italic.ttf"; path = "72-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		DE90D2204C664B5BA1386D5A /* 72-Light.ttf */ = {isa = PBXFileReference; name = "72-Light.ttf"; path = "72-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		E3CF806940F94D94A46ED36B /* 72-Regular.ttf */ = {isa = PBXFileReference; name = "72-Regular.ttf"; path = "72-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		705D31358CF14849872AB209 /* 72-Semibold.ttf */ = {isa = PBXFileReference; name = "72-Semibold.ttf"; path = "72-Semibold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4A2A9C1B1778452A9F513B55 /* 72-SemiboldDuplex.ttf */ = {isa = PBXFileReference; name = "72-SemiboldDuplex.ttf"; path = "72-SemiboldDuplex.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		43E96A4D1770453087CD14B7 /* 72Black.ttf */ = {isa = PBXFileReference; name = "72Black.ttf"; path = "72Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		038DAA5AF7E644A9B65E75B0 /* 72Mono-Bold.ttf */ = {isa = PBXFileReference; name = "72Mono-Bold.ttf"; path = "72Mono-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4117A63A55D7443EB06E25A1 /* 72Mono-Regular.ttf */ = {isa = PBXFileReference; name = "72Mono-Regular.ttf"; path = "72Mono-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		FF121216F87C431AA073CC4D /* SAPicons-Regular.ttf */ = {isa = PBXFileReference; name = "SAPicons-Regular.ttf"; path = "SAPicons-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A42981ABF59E49C6A8272E94 /* native_dependencies.json */ = {isa = PBXFileReference; name = "native_dependencies.json"; path = "native_dependencies.json"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,7 +147,6 @@
 				1AAE158823C5FEFC00F855F4 /* SwiftInterop.swift */,
 				2C887FD924B88A0E0003DC53 /* LaunchScreen.storyboard */,
 				2C005A7823D5B1E200003E29 /* nativeTemplate.entitlements */,
-				A42981ABF59E49C6A8272E94 /* native_dependencies.json */,
 			);
 			name = NativeTemplate;
 			sourceTree = "<group>";
@@ -307,19 +264,6 @@
 			isa = PBXGroup;
 			children = (
 				EB55620B22E0755000E19C26 /* glyphicons-halflings-regular.ttf */,
-				E13EB1163E0B41488C6E1811 /* 72-Bold.ttf */,
-				5ADB1BBCADB34E4B9AF6A467 /* 72-BoldItalic.ttf */,
-				A3CF67D44DDF4C6084F4FFCC /* 72-Condensed.ttf */,
-				C8AE8BCC377C4C9089501F56 /* 72-CondensedBold.ttf */,
-				D18D91CE3E2F4B53B7855A10 /* 72-Italic.ttf */,
-				DE90D2204C664B5BA1386D5A /* 72-Light.ttf */,
-				E3CF806940F94D94A46ED36B /* 72-Regular.ttf */,
-				705D31358CF14849872AB209 /* 72-Semibold.ttf */,
-				4A2A9C1B1778452A9F513B55 /* 72-SemiboldDuplex.ttf */,
-				43E96A4D1770453087CD14B7 /* 72Black.ttf */,
-				038DAA5AF7E644A9B65E75B0 /* 72Mono-Bold.ttf */,
-				4117A63A55D7443EB06E25A1 /* 72Mono-Regular.ttf */,
-				FF121216F87C431AA073CC4D /* SAPicons-Regular.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -427,20 +371,6 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				EB55620C22E0755000E19C26 /* glyphicons-halflings-regular.ttf in Resources */,
 				1A0B3AF323990C2400388BF7 /* config.xcconfig in Resources */,
-				9C5754FC178D47DA9FDA9FFE /* 72-Bold.ttf in Resources */,
-				189495CB03534398A4685CDE /* 72-BoldItalic.ttf in Resources */,
-				D2F17A6469154001AEFE7425 /* 72-Condensed.ttf in Resources */,
-				1B6ED6A5CB2248008DFBAAD9 /* 72-CondensedBold.ttf in Resources */,
-				28EA668726C84A5F89BB7476 /* 72-Italic.ttf in Resources */,
-				0649B4A9131C4DBC8B25A6FC /* 72-Light.ttf in Resources */,
-				0C374EECC9E5466DA53C9E5C /* 72-Regular.ttf in Resources */,
-				84C49979E89A45B7A1B2C4DB /* 72-Semibold.ttf in Resources */,
-				C31EB2A811694D369FEF12AA /* 72-SemiboldDuplex.ttf in Resources */,
-				9BDC3135F0974C1183AE8EC1 /* 72Black.ttf in Resources */,
-				9F893034CFB34C80B2406766 /* 72Mono-Bold.ttf in Resources */,
-				C479B370BBCF431295C61220 /* 72Mono-Regular.ttf in Resources */,
-				8F3DA68AEFB544B7A7530969 /* SAPicons-Regular.ttf in Resources */,
-				7F13A3FA32624FE58B600FF2 /* native_dependencies.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,20 +387,6 @@
 				1A0B3AEA2398185600388BF7 /* config.debug.xcconfig in Resources */,
 				1A0B3A9C2397DA2300388BF7 /* LaunchApp.storyboard in Resources */,
 				572D87C4D9F46E7564D1FE09 /* PrivacyInfo.xcprivacy in Resources */,
-				30A358F9FB154D11B29D8DF7 /* 72-Bold.ttf in Resources */,
-				F80BD6DC58C24675BAA55362 /* 72-BoldItalic.ttf in Resources */,
-				B9E93CB102884114BC02975B /* 72-Condensed.ttf in Resources */,
-				A13218EE246E45BDAEEDB2D5 /* 72-CondensedBold.ttf in Resources */,
-				CA5CB2953D1B4D4B91F32D3F /* 72-Italic.ttf in Resources */,
-				AD45CF6504704569BCC579C6 /* 72-Light.ttf in Resources */,
-				B68FB2763BBD4C69B1FDDF7E /* 72-Regular.ttf in Resources */,
-				2F83C5CFB68546E7A7B50CBA /* 72-Semibold.ttf in Resources */,
-				51AED0E54EB04EA4A43011C6 /* 72-SemiboldDuplex.ttf in Resources */,
-				63C11E5000FB488A90149037 /* 72Black.ttf in Resources */,
-				7B0D14B58EC14F2A8748EAE7 /* 72Mono-Bold.ttf in Resources */,
-				487E07F2966C4B6A8DD7A07F /* 72Mono-Regular.ttf in Resources */,
-				7D5E38DACA9B40D2B719A3BE /* SAPicons-Regular.ttf in Resources */,
-				4AD6C89D197D4350BF2E4418 /* native_dependencies.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -838,7 +754,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -918,7 +834,7 @@
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${PROJECT_DIR} ${SRCROOT}/../node_modules/@mendix/native/ios";
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -974,7 +890,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1029,7 +945,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -1094,7 +1010,7 @@
 				OTHER_LDFLAGS = "$(inherited)";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -1175,7 +1091,7 @@
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${PROJECT_DIR} ${SRCROOT}/../node_modules/@mendix/native/ios";
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = ReleaseDevApp;
@@ -1231,7 +1147,7 @@
 				SWIFT_OBJC_BRIDGING_HEADER = "nativeTemplate-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = ReleaseDevApp;
 		};
@@ -1302,7 +1218,7 @@
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				USE_HERMES = true;
 			};
 			name = Debug;
@@ -1368,7 +1284,7 @@
 				OTHER_LDFLAGS = "$(inherited)";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
